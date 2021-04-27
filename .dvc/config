@@ -1,0 +1,2 @@
+['remote "azremote"']
+    url = azure://azureml-blobstore-ff0a50c5-7606-44ae-a728-bfcb692749f8/RemoteDVC
